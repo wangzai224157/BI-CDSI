@@ -1,0 +1,6 @@
+
+
+train_model_out_path_SWCNN: /mnt/sda/SWCNN-main_multi/runs
+
+#/mnt/sda/zhouying/second/SWCNN-main/runs/HNperL1n2nalpha0.3
+train_data_path: /mnt/sda//NewData/three

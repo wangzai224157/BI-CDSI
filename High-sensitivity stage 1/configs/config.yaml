@@ -1,0 +1,6 @@
+
+
+train_model_out_path_SWCNN: /mnt/path/runs
+
+
+train_data_path: /mnt/path/data
